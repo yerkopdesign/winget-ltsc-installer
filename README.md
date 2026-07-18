@@ -11,10 +11,10 @@ Una herramienta standalone limpia e intuitiva desarrollada en **AutoIt v3** dise
 
 ## 🎨 Vista Previa Visual
 
-| Entorno de Trabajo | Ventana de la Aplicación |
+| Entorno de Trabajo | Interfaz de la Aplicación |
 | :---: | :---: |
-| ![Estructura de Carpetas](assets/preview-folder.png) | ![Interfaz de la GUI](assets/preview-gui.png) |
-*Nota: El diseño utiliza feedback visual directo, tipografía nativa Segoe UI y barras de progreso fluidas en tiempo real.*
+| **Estructura de Carpetas (Despliegue Local)**<br><br>![Estructura de Carpetas](assets/preview-folder.jpg) | **Instalador Dinámico (Online)**<br><br>![Instalador Online](assets/Winget-Online-GUI_jJGCX3qQZ4.png) |
+| **Proceso Dinámico (Sin Interfaz)**<br><br>![Proceso Descarga](assets/Winget-Online-SinGUI_kqFvxMphBe.png) | **Instalador Estático (Offline)**<br><br>![Instalador Local](assets/Winget-Local-GUI_adfGMxaEDp.png) |
 
 ---
 
