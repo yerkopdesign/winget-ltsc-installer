@@ -36,8 +36,15 @@ Los scripts fuentes están organizados de la siguiente forma en el repositorio:
 ```text
 📦 winget-ltsc-installer
  ┣ 📂 src
- ┃ ┣ 📜 Winget-Online-GUI.au3    # Código fuente con descarga activa por red
- ┃ ┗ 📜 Winget-Local-GUI.au3     # Código fuente para ejecución offline local
+ ┃ ┣ 📜 Winget Windows LTSC Online.cmd            # Código fuente con descarga activa por red CMD
+ ┃ ┣ 📜 Winget Windows LTSC Online - Sin GUI.au3  # Código fuente con descarga activa por red
+ ┃ ┣ 📜 Winget Windows LTSC Online - GUI.au3      # Código fuente con descarga activa por red
+ ┃ ┗ 📜 Winget Windows LTSC Offline - GUI.au3     # Código fuente para ejecución offline local
  ┣ 📂 assets                     # Capturas de pantalla e identidad visual
+   ┣ 📜 WindowsPackageManager.ico
+   ┣ 📜 Winget-Local-GUI_adfGMxaEDp.png
+   ┣ 📜 Winget-Online-GUI_jJGCX3qQZ4.png
+   ┣ 📜 Winget-Online-SinGUI_kqFvxMphBe.png
+   ┗ 📜 preview-folder.jpg
  ┣ 📜 .gitignore                 # Filtros para evitar subir archivos basura
  ┗ 📜 README.md                  # Documentación principal del sistema
